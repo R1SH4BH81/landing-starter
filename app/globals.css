@@ -17,3 +17,8 @@ body {
   font-family: var(--font-montserrat), "Montserrat", system-ui, -apple-system, sans-serif;
   overflow-x: hidden;
 }
+
+::selection {
+  background: #ff2a51;
+  color: #ffffff;
+}
